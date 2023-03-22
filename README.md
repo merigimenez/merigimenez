@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **gimenezmarianae@gmail.com**
 
-- 📄 Know about my experiences I'm an engineer from another field, with a very engineer head, who loves codes.
-
 - ⚡ Fun fact **love languages, formula 1 and skydiving :)**
  
 <h3 align="left">Connect with me:</h3>
