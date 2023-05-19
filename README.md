@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariana</h1>
 <h3 align="center">I'm a full-stack web developer.</h3>
 
-- 🌱 I’m currently learning **java, blockchain and japanese!**
+- 🌱 I’m currently learning **java, react, blockchain and japanese!**
 
 - 📫 How to reach me **gimenezmarianae@gmail.com**
 
